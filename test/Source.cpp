@@ -5,6 +5,5 @@ int main()
 {
 	printf("‚ ‚¢‚¤‚¦‚¨\n");
 	_getch();
-	int asdf;
 	return 0;
 }
